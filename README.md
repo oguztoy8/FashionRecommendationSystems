@@ -2,14 +2,6 @@
 
 https://huggingface.co/spaces/oguztoy/Fashion_Recommendation_Systems_ResNet50_KNN
 
-##  Notebook Viewer
-
-You can view the Jupyter Notebook nicely rendered using [NBViewer](https://nbviewer.org):
-
- [Open Fashion_Recommerder_ResNet50_KNN.ipynb on NBViewer](https://nbviewer.org/github/oguztoy8/FashionRecommendationSystems/blob/main/Fashion_Recommerder_ResNet50_KNN.ipynb)
-
-
-
 
 ##  External Files (Google Drive)
 
